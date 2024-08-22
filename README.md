@@ -12,4 +12,4 @@ Os algoritmos se encontram nos seguintes diretórios:
 3. Insertion Sort : ……….
 4. Merge Sort: …….
 5. Quick Sort: ……..
-sou aluno Igmar flores, do curso eng. de sofware da ufms
+   
